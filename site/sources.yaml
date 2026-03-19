@@ -1,0 +1,13 @@
+nixcraft:
+  type: web
+  title: Linux ip Command Examples
+  author: Gite, Vivek
+  date: 2025
+  url: https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/
+
+redhat:
+  type: web
+  title: ip Command Cheat Sheet for Red Hat Enterprise Linux
+  author: Red Hat
+  date: 2015
+  url: https://access.redhat.com/articles/ip-command-cheat-sheet

@@ -1,0 +1,50 @@
+ed25519:
+  type: article
+  title: 'Comparing SSH Keys: RSA, ECDSA, Ed25519'
+  author: 'VitalVas'
+  date: 2025
+  url: 'https://blog.vitalvas.com/post/2025/03/01/comparing-ssh-keys-rsa-ecdsa-ed25519/'
+  parent:
+    type: blog
+    title: 'Blog Notes'
+
+ssh-setup:
+  type: article
+  title: 'How To Set up SSH Keys on a Linux / Unix System'
+  author: Vivek Gite
+  date: 2025
+  url: 'https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/'
+  parent:
+    type: blog
+    title: 'nixCraft'
+
+gentoo-ssh:
+  type: article
+  title: 'SSH'
+  author: 'Gentoo Authors'
+  date: 2026
+  url: 'https://wiki.gentoo.org/wiki/SSH'
+  parent:
+    type: blog
+    title: 'Gentoo wiki'
+
+gentoo-ssh-tunneling:
+  type: article
+  title: 'SSH tunneling'
+  author: 'Gentoo Authors'
+  date: 2024
+  url: 'https://wiki.gentoo.org/wiki/SSH_tunneling'
+  parent:
+    type: blog
+    title: 'Gentoo wiki'
+
+gentoo-ssh-jump-hosts:
+  type: article
+  title: 'SSH jump host'
+  author: 'Gentoo Authors'
+  date: 2023
+  url: 'https://wiki.gentoo.org/wiki/SSH_jump_host'
+  parent:
+    type: blog
+    title: 'Gentoo wiki'
+
