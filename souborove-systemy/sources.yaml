@@ -1,0 +1,19 @@
+zfs-mastery:
+  type: book
+  title: 'FreeBSD Mastery: ZFS'
+  author:
+    - Michael W Lucas
+    - Allan Jude
+  publisher: "Tilted Windmill Press"
+  date: 2015
+  isbn: "9781642350005"
+
+oracle-zfs:
+  type: article
+  title: 'ZFS Terminology'
+  author: 'Oracle'
+  date: 2010
+  url: 'https://docs.oracle.com/cd/E18752_01/html/819-5461/ftyue.html'
+  parent:
+    type: blog
+    title: 'Oracle Solaris ZFS Administration Guide'
