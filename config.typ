@@ -4,6 +4,7 @@
 
     set heading(numbering: "1.")
     show heading.where(level: 2): set heading(numbering: none)
+    show heading.where(level: 3): set heading(numbering: none)
     show heading: it => { v(1em) + it + v(.5em) }
 
     show raw.where(block: true): it => block(
