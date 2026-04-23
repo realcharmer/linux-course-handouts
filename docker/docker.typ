@@ -99,10 +99,10 @@ Jako jednoduchý příklad lze uvést předchozí ukázku adaptovanou do `docker
 ```yaml
 services:
   helloworld:
-  image: helloworld
-  container_name: doom
-  ports:
-    - 80:80
+    image: helloworld
+    container_name: doom
+    ports:
+      - 80:80
 ```
 
 Ve výsledku dostaneme stejný kontejner se stejným nastavením, avšak bez nutnosti vypisovat celý příkaz pro jeho spuštění.#note[Přepínač `-d` v~tomto případě implikuje `--deatch`]
